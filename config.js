@@ -45,7 +45,7 @@ charadex.sheet = {
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
     species: ['All', 'Quartz Horse'],
     itemTypes: ['All', 'Apple', 'Breeding Slot'],
-    traitTypes: ['All', 'Coat Dilutions','Markings','Mutations']
+    traitTypes: ['All', 'Base Coat','Coat Dilutions','Markings','Mutations']
 
   }
 
